@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\bin\Debug\net7.0\patik_odev.exe
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\bin\Debug\net7.0\patik_odev.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\bin\Debug\net7.0\patik_odev.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\bin\Debug\net7.0\patik_odev.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\bin\Debug\net7.0\patik_odev.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\refint\patik_odev.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\patik_odev.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_odev\obj\Debug\net7.0\ref\patik_odev.dll
